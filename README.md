@@ -1,0 +1,1 @@
+The project demonstrates the application of machine learning techniques in predicting movie revenue. The results show that Random Forest outperforms other models in terms of accuracy and goodness of fit.
